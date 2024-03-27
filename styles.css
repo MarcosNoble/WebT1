@@ -1,63 +1,42 @@
 body, html {
     margin: 0;
     padding: 0; 
-    /*background: yellow;     /* red, blue, yellow, etc */
-    /*color: red;             /* red, blue, yellow, etc */
-    font-size: 20px;        /* 0px - 100px and beyond */
-    font-weight: lighter;   /* lighter, normal, bold  */
-    text-align: left;      /* left, center or right  */ 
-    margin-top: 5px;     
+    font-size: 20px;        
+    font-weight: lighter;  
+    text-align: left;     
+    margin-top: 5px;    
+    flex-direction: column;
+    flex-wrap: wrap; 
 }
-
-.first{
-    background: green;     /* red, blue, yellow, etc */
+h1{
+    text-align: center;
+}
+.grid_1{
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); 
+    gap: 10px;
+    display: grid; 
+    margin-left: 300px;   
+    margin-right: 300px;
+   
+}
+.rotulo{
+    display: block;    
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    width: auto;
+    background: lightgray;     
     color: black;
-    border: 8px solid blue;
-    border-radius: 30px;
-    
-    padding: 10px;
-    
-}
-.firsttext{
-    padding: 10px;
-}
-img {
-    width: 30%;
-    display: block;
-    margin: 100px auto 20px;
-    min-width: 272px;
+    border: 0px solid blue;
+    border-radius: 15px;    
+    line-height: 1;    
 }
 
-input {
-    box-sizing: border-box;
-    display: block;
-    border-radius: 24px;
-    border: 1px solid rgb(223, 225, 229);
-    height: 44px;
-    margin: 0 auto 29px;
-    max-width: 564px;
-    width: 90%;
-    padding-left: 30px;
-    font-size: 16px;
+.imagem{
+    width: 100%; 
+    height: auto; 
+    max-width: 200px; 
+    max-height: 200px; 
 }
 
-button {
-    box-sizing: border-box;
-    margin-top: 0;
-    padding: 0 16px;
-    font-size: 14px;
-    height: 36px;
-    background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
-    cursor: pointer;
-}
-
-button:first-of-type {
-    margin-right: 8px;
-    margin-left: calc(50% - 131.5px);
-}
-
-button::hover {
-    cursor: pointer;   
-}
 
