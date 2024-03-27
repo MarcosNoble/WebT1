@@ -3,7 +3,7 @@ body, html {
     padding: 0; 
     font-size: 20px;        
     font-weight: lighter;  
-    text-align: left;     
+    /*text-align: left;     */
     margin-top: 5px;    
     flex-direction: column;
     flex-wrap: wrap; 
@@ -15,8 +15,8 @@ h1{
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); 
     gap: 10px;
     display: grid; 
-    margin-left: 300px;   
-    margin-right: 300px;
+    margin-left: 150px;   
+    margin-right: 150px;
    
 }
 .rotulo{
