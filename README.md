@@ -8,8 +8,8 @@
 > 6. Entregue este README.md dentro da pasta raiz do seu repositório de entrega. Peça ajuda se não souber como editar ou entregar!
 > Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
 
-![Substitua a imagem ao lado por um screenshot do seu projeto](https://i.imgur.com/Jgw9ATs.jpe "Screenshot do projeto")
-g
+![Substitua a imagem ao lado por um screenshot do seu projeto](https://i.imgur.com/Jgw9ATs.jpeg "Screenshot do projeto")
+
 
 Acesso: https://marcosnoble.github.io/WebT1/
 
