@@ -11,14 +11,15 @@
 ![Substitua a imagem ao lado por um screenshot do seu projeto](https://postimg.cc/kD5bJ9BK "Screenshot do projeto")
 
 
-Acesso: Substitua este texto pela URL para acesso ao site publicado
+Acesso: https://marcosnoble.github.io/WebT1/
 
 
 #### Desenvolvedor(a)
-Substitua este texto pela sua identificação: nome e curso
-
+Marcos da Luz Noble
+Curso: CC
 
 #### Site/app escolhido
+Opção 1
 
 ##### Link
 Substitua este texto pela URL do site/app escolhido
