@@ -25,9 +25,13 @@ Opção 1
 https://www.ufsm.br/orgaos-suplementares/inovatec/startups
 
 ##### Descrição
-Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
+Página do parque tecnológica da UFSM listando as empresas incubadas. 
+Os logos dass empresas listadas aparecem em grades separadas temáticamente. 
+O código é bastante extenso, obviamente foi feito por algum framework e não diretamente na mão em HTML CSS puros.
 
 #### Desenvolvimento
+
+Como eu nunca tinha feito nada em HTML e CSS comecei a partir do básico com tutoriais no youtube.
 
 Substitua este texto por uma descrição do processo de desenvolvimento, explicando suas escolhas para o remake e etapas do trabalho (por exemplo, como foi coletado o conteúdo, qual foi seu foco no remake, etc.)
 
@@ -35,8 +39,9 @@ Substitua este texto por uma descrição do processo de desenvolvimento, explica
 #### Tecnologias
 
 Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
-- ...
-- ...
+- HTML
+    -
+- CSS
 - 
 
 #### Ambiente de desenvolvimento
