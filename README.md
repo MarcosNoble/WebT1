@@ -32,32 +32,24 @@ O código é bastante extenso, obviamente foi feito por algum framework e não d
 #### Desenvolvimento
 
 Como eu nunca tinha feito nada em HTML e CSS comecei a partir do básico com tutoriais no youtube.
-
-Substitua este texto por uma descrição do processo de desenvolvimento, explicando suas escolhas para o remake e etapas do trabalho (por exemplo, como foi coletado o conteúdo, qual foi seu foco no remake, etc.)
-
+O meu objetivo era conseguir uma aparência similar a da pagina original. O conteúdo em si foi muito mais fácil de criar mas as barras superior e inferior se mostraram muito complexas.
 
 #### Tecnologias
 
-Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
-- HTML
-    -adsd
+- HTML    
 - CSS
-- 
 
 #### Ambiente de desenvolvimento
 
-Substitua este trecho por uma lista detalhada dos ambientes/ferramentas de desenvolvimento que você usou (por exemplo, VS Code + alguma extensão, etc.)
-- ...
-- ...
+- VScode
+- Extensão Live Server (Cria um server locar de desenvolvimento que dá refresh automáticamente quando os arquivos são alterados e mostra no navegador)
 
 #### Referências e créditos
 
-Substitua este trecho por uma lista bem detalhada de todo material que você consultou para ajudar no projeto, por exemplo:  URL de templates usados, URL de icon kits usados, créditos para colegas que colaboraram, geradores de código (incluindo alguns prompts usados para o ChatGPT, se for o caso)
-- ...
-- ...
-
-
-
-
+- Scrimba, um tutorial de HTML e CSS (https://scrimba.com/dashboard#overview)
+- Tutorial de display flex https://www.youtube.com/watch?v=fVNyfDUuock
+- Tutorial de grid https://www.youtube.com/watch?v=EiNiSFIPIQE
+- ChatGPT só foi usado para desvendar bugs
+- 
 ---
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2024a) em 2024a
