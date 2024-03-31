@@ -22,7 +22,7 @@ Curso: CC
 Opção 1
 
 ##### Link
-Substitua este texto pela URL do site/app escolhido
+https://www.ufsm.br/orgaos-suplementares/inovatec/startups
 
 ##### Descrição
 Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
