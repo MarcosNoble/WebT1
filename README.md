@@ -39,7 +39,8 @@ O meu objetivo era conseguir uma aparência similar a da pagina original. O cont
 - Scrimba, um tutorial de HTML e CSS (https://scrimba.com/dashboard#overview)
 - Tutorial de display flex https://www.youtube.com/watch?v=fVNyfDUuock
 - Tutorial de grid https://www.youtube.com/watch?v=EiNiSFIPIQE
+- Tutorial de HTML semântico https://www.youtube.com/watch?v=bOUhq46fd5g
 - ChatGPT só foi usado para desvendar bugs
-- 
+
 ---
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2024a) em 2024a
