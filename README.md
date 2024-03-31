@@ -1,5 +1,5 @@
 # Projeto: Remake de site/app web
-![Substitua a imagem ao lado por um screenshot do seu projeto](https://imgur.com/a/wqljP1o "Screenshot 2")
+![Substitua a imagem ao lado por um screenshot do seu projeto](https://i.imgur.com/AaweuQ5.png)
 
 Acesso: https://marcosnoble.github.io/WebT1/
 
