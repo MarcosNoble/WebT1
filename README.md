@@ -40,7 +40,7 @@ Substitua este texto por uma descrição do processo de desenvolvimento, explica
 
 Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
 - HTML
-    -
+    -adsd
 - CSS
 - 
 
