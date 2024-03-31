@@ -8,22 +8,25 @@ body, html {
     flex-direction: column;
     flex-wrap: wrap; 
 }
+
 .headerText{
     text-align: left;
     color: white;
     text-decoration: none;
 }
+
 h1{
     text-align: center;
 }
+
 .grid_1{
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); 
     gap: 10px;
     display: grid; 
     margin-left: 150px;   
     margin-right: 150px;
-   
 }
+
 .rotulo{
     display: block;    
     margin-left: 150px;
@@ -49,6 +52,7 @@ h1{
     max-width: 125px; 
     max-height: 125px;
 }
+
 a{
     width: 100%; 
     height: auto; 
@@ -72,19 +76,6 @@ a{
 .barra a {
     text-decoration: none;
     padding: 20px;
-}
-
-.container {
-    display:  flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #28346c;
-    color: white;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: var(--bs-gutter-x, .75rem);
-    padding-right: var(--bs-gutter-x, .75rem);
-    width: 100%;
 }
 
 footer{
