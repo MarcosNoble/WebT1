@@ -1,83 +1,32 @@
-body, html {
-    margin: 0;
-    padding: 0; 
+body, html {    
+    /*border: 2px solid;    */
     font-family: rawline, sans-serif !important;
     font-size: 20px;        
-    font-weight: lighter;  
-    margin-top: 5px;    
+    font-weight: lighter;      
     flex-direction: column;
     flex-wrap: wrap; 
-}
-
-.headerText{
-    text-align: left;
-    color: white;
-    text-decoration: none;
-}
-
-h1{
     text-align: center;
 }
+#telaJogo{
+    border: 2px solid;
 
-.grid_1{
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); 
-    gap: 10px;
-    display: grid; 
-    margin-left: 150px;   
-    margin-right: 150px;
 }
-
-.rotulo{
-    display: block;    
-    margin-left: 150px;
-    margin-right: 150px;
-    text-align: center;
-    width: auto;
-    background: lightgray;     
-    color: black;
-    border: 0px solid blue;
-    border-radius: 15px;    
-    line-height: 1;    
+#button{
+    font-size: 25px;
+    border-radius: 5px;
+    margin: 5px;
+    margin-bottom: 10px ;
+    cursor: pointer;
 }
 
-.imagem{
-    width: 100%; 
-    height: auto; 
-    max-width: 200px; 
-    max-height: 200px; 
-}
-.logo{
-    width: 100%; 
-    height: auto; 
-    max-width: 125px; 
-    max-height: 125px;
+li{
+    border: 2px solid;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: cyan;
+    cursor: pointer;
 }
 
-a{
-    width: 100%; 
-    height: auto; 
-    max-width: 200px; 
-    max-height: 200px; 
-}
-
-.imagem:hover{
-    transform: scale(1.15);
-}
-
-.barra{
-    display:  flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #28346c;
-    color: white;
-    
-    text-decoration: none;
-}
-.barra a {
-    text-decoration: none;
-    padding: 20px;
-}
-
-footer{
-    padding: 25px;
+.selected{
+    background-color: green;
 }
